@@ -1,0 +1,7 @@
+mavcam
+src/*.o
+__pycache__/
+*.dSYM/
+deploy/cache/
+deploy/out/
+tests/test_link
